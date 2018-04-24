@@ -11,6 +11,6 @@ self.MonacoEnvironment = {
 
 monaco.editor.create(document.getElementById('container'), {
 	value: '',
-	language: 'php',
+	language: 'go',
 	theme: "vs-dark",
 });
